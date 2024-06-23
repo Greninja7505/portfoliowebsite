@@ -1,0 +1,80 @@
+body{
+    background-image:url("data:image/jpeg;base64,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");
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.navbar-test {
+    
+    width: 100%;
+    height: 5rem;
+    margin: 0 auto;
+ max-width: 1200px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.logo a{
+    font-size: 2rem;
+}
+    li{
+        
+    list-style: none;
+
+
+
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 2rem;
+    transition: 0.5s;
+}
+a:hover{
+     padding: 0 1rem;
+    background-color: crimson;
+
+}
+header{
+    position: relative;
+    padding: 0 2rem;
+}
+.links{
+    display: flex;
+    gap: 4rem;
+}
+.togglebtn{
+    color: white;
+font-size: 2rem;
+cursor: pointer;
+display: none;
+
+}
+.act-button {
+background-color: red;
+color: white;
+padding: 0.5rem 1rem ;
+border: none;
+outline: none;
+border-radius: 5rem;
+font-size: 1.4rem;
+cursor: pointer;
+transition: 0.2 ease;
+}
+.act-button:hover{
+    scale: 1.05;
+}
+.act-button:active{
+    scale: 0.95;
+}
+
+@media (max-width:1000px)
+{
+    .navbar-test .links,.navbar-test .act-button{
+        display: none;
+    }
+
+    .navbar-test .togglebtn{
+        display: block;
+    }
+}
